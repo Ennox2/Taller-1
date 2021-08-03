@@ -157,13 +157,13 @@ En el siguiente video se muestra de una manera detallada los pasos anteriormente
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=VK4MquWx_a0
 " target="_blank"><img src="http://img.youtube.com/vi/VK4MquWx_a0/0.jpg" 
-alt="Video" width="900" height="540" border="10" /></a>
+alt="Video" width="1000" height="auto" border="10" /></a>
 
 
 ---
 # Trifoliar📝
 <a href="assets/images/prueba.pdf" target="_blank"><img src="assets/images/prueba1.png" 
-alt="trifolio" border="10" /></a>
+alt="trifolio" width="1000" height="auto" border="10" /></a>
 
 ---
 # Bibliografía 📚

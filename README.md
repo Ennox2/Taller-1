@@ -23,9 +23,11 @@ Tutores:
         2. Partes Externas
     3. Caracteristicas
 5. Mantenimiento de una computadora
-    1. Indented item
-    2. Indented item
-6. Bibliografia
+    1. Tipos de mantenimiento
+    2. Procedimiento
+6. Video Explicativo
+7. Trifoliar
+8. Bibliografia
 ---
 # Computadora :computer:
 ### Definicion

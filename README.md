@@ -152,11 +152,16 @@ Es un tipo de mantenimiento que no se dedica a corregir o prevenir posibles fall
 ---
 # Video explicativo ▶️
 En el siguiente video se muestra de una manera detallada los pasos anteriormente descritos, de tal manera que se pueda realizar el mantenimiento de una manera facil y sencilla consiguiendo el estado optimo de un equipo portatil:
-<center>
+
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=VK4MquWx_a0
 " target="_blank"><img src="http://img.youtube.com/vi/VK4MquWx_a0/0.jpg" 
 alt="Video" width="900" height="540" border="10" /></a>
-</center>
+
+
+---
+# Trifoliar📝
+<a href="assets/images/prueba.pdf" target="_blank"><img src="assets/images/prueba1.png" 
+alt="trifolio" border="10" /></a>
 
 ---
 # Bibliografía 📚

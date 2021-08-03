@@ -51,12 +51,12 @@ Se destinan a manipular cantidades inmensas de información de entrada, salida y
 #### 3. Computadoras de escritorio
 El tipo de computadora personal más utilizado en la actualidad es la computadora de escritorio, la cual podemos encontrar en todo tipo de escenario y realizando las más variadas tareas.
 
-![Personal](/assets/images/escritorio.png)
+![Personal](/assets/images/escritorio.PNG)
 
 #### 4. Computadoras portátiles
 Otro tipo de computadora personal es la llamada notebook, también llamada ***laptop***, la cual básicamente es una computadora con rendimiento y capacidad similares a una computadora de escritorio, pero en un formato que puede ser transportable, debido a que utilizan un monitor del tipo LCD o LED, además de componentes mucho más pequeños y eficientes en términos de uso de energía, un punto más que necesario ya que la principal fuente de alimentación de las computadoras portátiles es una batería.
 
-![Laptop](/assets/images/portatil.png)
+![Laptop](/assets/images/portatil.PNG)
 
 Tanto los Smartphone como las Tablet podrían ser considerados como otro tipo de computadoras portátiles, ya que son dispositivos que funcionan prácticamente de la misma manera, salvo que con otra forma.
 

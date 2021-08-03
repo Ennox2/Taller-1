@@ -12,7 +12,7 @@ Tutores:
   * Elmer Gustavo Sánchez García
   * Edwin Alfredo Lopez Gomez
   * Frederick Faugier
-
+---
 ## Contenido:
 1. Computadora
     1. Definiicion
@@ -26,7 +26,7 @@ Tutores:
     1. Indented item
     2. Indented item
 6. Bibliografia
-
+---
 # Computadora :computer:
 ### Definicion
 Una computadora es considerada como un dispositivo informático que es capaz de recibir, almacenar y procesar información de una forma útil. Una computadora está programada para realizar operaciones lógicas o aritméticas de forma automática. Su principal funcion es facilitar las tareas.
@@ -60,13 +60,111 @@ Otro tipo de computadora personal es la llamada notebook, también llamada ***la
 
 Tanto los Smartphone como las Tablet podrían ser considerados como otro tipo de computadoras portátiles, ya que son dispositivos que funcionan prácticamente de la misma manera, salvo que con otra forma.
 
+---
 # Laptop
 ## Componentes
 Posee todos los componentes necesarios a la mano para trabajar como en cualquier computadora personal, pero simplemente en un empaque mas pequeño y con batería incluida.
 
-### Partes Externas
+### Partes Externas 
 Son prácticamente todo lo que podemos ver a simple vista en una laptop:
 
-#### Pantalla
-  
+#### Pantalla 📺
+Una de las partes mas importantes de cualquier computadora es la pantalla. Las laptops hoy en día tienen pantallas que van desde las 10 pulgadas hasta 16-17 pulgadas en los modelos de gama mas alta o para diseñadores y gamers.
+Las resoluciones mas comunes en una laptop son 1368×760 en modelos viejos, 1920×1080 en modelos actuales, los tipos de monitores de las laptops normalmente son LCD o LED.
+
+#### -Teclado ⌨️
+Los teclados en las laptops están integrados en el chasis justo debajo de la pantalla. Normalmente el tamaño es mas pequeño que el de las computadoras de escritorio ya que no incluyen el teclado numérico.
+
+#### -Mousepad o trackpad 🖱️
+El trackpad actúa como nuestro cursor e incluye botones como el mouse, además de incluir en muchos casos funciones extra depende de los movimientos que hagas con distinta cantidad de dedos.
+
+#### -Adaptador de corriente
+Las laptops a diferencia de las computadoras necesitan un adaptador de corriente para transformar la energía y cargar la batería de vez en cuando.
+
+#### -Puertos E/S 🔌
+Entre estos puertos, normalmente tenemos los famosos puertos USB, puertos HDMI para conectar la laptop a un monitor o televisión externos, puertos SD para memorias de cámara fotográfica, puertos Thunderbolt para múltiples dispositivos y el puerto de conexión de corriente.
+
+#### -Altavoces 🔊
+Aunque en muchos casos no son visibles, todas las laptops incluyen altavoces muy sencillos y de baja potencia para un uso cotidiano. 
+
+#### -Webcam 📷
+Al igual que las bocinas, la mayoría de las laptops incluye una cámara web y un micrófono para hacer llamadas o video conferencias.
+
+### Partes Internas
+Estas superan en numero a las partes externas de la laptop e incluso suelen ser mas que las partes internas de una computadora de escritorio por la estructura de la laptop.
+
+#### -CPU
+O unidad central de procesamiento es el cerebro de la computadora, este es un pequeño procesador de unos centímetros que procesa toda la información que solicitamos.
+
+#### -Tarjeta Madre
+La tarjeta madre en una laptop es la base en donde se instalan o conectan todos los componentes internos de una laptop. Al igual que en cualquier otro tipo de computadora, la tarjeta madre es la encargada de conectar y permitir que todos los componentes trabajen en conjunto y existen muchos tipos de tarjetas madre de acuerdo al tamaño y forma de la misma.
+
+#### -Memoria RAM
+La memoria RAM o de acceso aleatorio es la encargada de guardar la información de rápido alcance en una computadora. Las laptops suelen traer desde 4GB de memoria RAM hasta 32 GB de memoria RAM en los modelos mas caros, siendo 8GB un promedio en la industria hoy en día.
+
+#### -Disco Duro o SSD
+Al igual que en las computadoras de escritorio, requerimos de una unidad de almacenamiento ya sea con disco duro o unidad de estado solido para poder guardar la información de manera permanente. 
+
+#### -Batería
+Una diferencia importante en las laptops respecto a las computadoras de escritorio es que las laptops tienen batería. La duración de la batería es de 2 horas hasta 12 horas en los modelos que consumen menos energía en promedio.
+
+#### -Antena BT/WiFi
+Las laptops hoy en día no suelen incluir un puerto ethernet, el cual las haría menos portátiles, pero para remplazar ese puerto tenemos antenas WiFi y Bluetooth que se encargan de conectarnos a internet y otros dispositivos sin necesidad de cables.
+
+#### -Ventiladores
+Las laptops al igual que las computadoras de escritorio generan calor y necesitan expulsarlo de manera eficiente. Aunque el consumo de una laptop suele ser mucho menor al de una PC, las laptops tienen un gabinete muy pequeño y delgado, por lo cual es fácil que se calienten a temperaturas mas altas que una computadora de escritorio.
+
+Para combatir este problema, los fabricantes suelen incluir 1 o 2 ventiladores lo mas silenciosos posibles en las laptops. Solo las laptops mas sencillas y de bajo rendimiento suelen ser totalmente silenciosas y no usar ningún ventilador.
+
+## Características
+1. Unidad compacta e independiente diseñada para funcionar con baterías.
+2. Tienen más o menos el tamaño de un libro; su nombre proviene de la idea de que hay suficiente espacio para operar una en tu regazo.
+3. Todo viene incluido en un pequeño aparato: la unidad central de procesamiento (CPU en inglés), el monitor, el teclado, un dispositivo de ratón, el disco duro y un disco óptico, como el que es para los DVD.
+4. Es conveniente en cuanto a la movilidad y permite ahorrar espacio en casa.
+5. Permite una buena conectividad.
+
+# Mantenimiento de una computadora ⚙️
+Se puede definir Mantenimiento del PC como una serie de rutinas periódicas que debemos realizar a la PC, necesarias para que la computadora ofrezca un rendimiento óptimo y eficaz a la hora de su funcionamiento. De esta forma podemos prevenir o detectar cualquier falla que pueda presentar el computador.
+
+## Tipos de mantenimiento
+1. ***Mantenimiento predictivo***
+Se trata de un tipo de mantenimiento que se lleva a cabo utilizando herramientas de diagnóstico, con el fin de anticiparse a posibles fallos e intentar evitarlos antes de que se produzcan.
+2. ***Mantenimiento preventivo***
+Se trata de un tipo de mantenimiento muy frecuente, que se lleva a cabo con el fin nosólo de prevenir posibles fallos y mejorar el funcionamiento de un sistema, sino con el de alargar la vida útil de los distintos componentes del mismo.
+El mantenimiento preventivo es útil en muchos aspectos. Permite, por ejemplo, disminuir el número de paradas del sistema o el tiempo de cada parada, reducir el número de reparaciones, o detectar puntos débiles en el sistema que puedan afectar a su funcionamiento.
+3. ***Mantenimiento correctivo***
+Se trata de la solución que deberá aplicarse cuando el mantenimiento predictivo y el preventivo no hayan funcionado bien o no hayan sido capaces de evitar el fallo.
+4. ***Mantenimiento evolutivo***
+Es un tipo de mantenimiento que no se dedica a corregir o prevenir posibles fallos, sino a hacer evolucionar los recursos informáticos con los que se cuenta.
+
+---
+## Procedimiento (Mantenimiento preventivo)
+### Materiales a utilizar:
+* Espuma limpiadora.
+* Aire comprimido.
+* Kit de desarmadores.
+* Toalla de fibra.
+
+### Pasos:
+1. Revisar que el equipo se encuentre desconectado.
+2. Ver que se encuentre...
+
+---
+# Video explicativo ▶️
+En el siguiente video se muestra de una manera detallada los pasos anteriormente descritos, de tal manera que se pueda realizar el mantenimiento de una manera facil y sencilla consiguiendo el estado optimo de un equipo portatil:
+<center>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VK4MquWx_a0
+" target="_blank"><img src="http://img.youtube.com/vi/VK4MquWx_a0/0.jpg" 
+alt="Video" width="900" height="540" border="10" /></a>
+</center>
+
+---
+# Bibliografía 📚
+
+https://pcacademia.com/partes-de-una-laptop/
+
+https://ehorus.com/es/tipos-de-mantenimiento-informatico/
+
+
+
 

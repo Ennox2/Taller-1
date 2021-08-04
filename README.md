@@ -1,6 +1,7 @@
 # Taller 1 - **Mantenimiento de una computadora**
 
-## Integrantes:
+
+## Integrantes (Grupo#7):
 Estudiantes:
   * Ayeser Cristián Oxlaj Juarez - 202010025
   * Luis Angel Barrera Velásquez - 202010223
@@ -15,22 +16,22 @@ Tutores:
 ---
 ## Contenido:
 1. Computadora
-    1. Definiicion
+    1. Definición
     2. Tipos de computadoras
 3. Laptop
     1. Componentes de una laptop
         1. Partes Internas
         2. Partes Externas
-    3. Caracteristicas
+    3. Características
 5. Mantenimiento de una computadora
     1. Tipos de mantenimiento
     2. Procedimiento
 6. Video Explicativo
 7. Trifoliar
-8. Bibliografia
+8. Bibliografía
 ---
 # Computadora :computer:
-### Definicion
+### Definición
 Una computadora es considerada como un dispositivo informático que es capaz de recibir, almacenar y procesar información de una forma útil. Una computadora está programada para realizar operaciones lógicas o aritméticas de forma automática. Su principal funcion es facilitar las tareas.
 
 La computadora tiene su origen en dispositivos que permiten realizar cálculos de forma mecánica como el ábaco y la pascalina.
@@ -70,7 +71,7 @@ Posee todos los componentes necesarios a la mano para trabajar como en cualquier
 ### Partes Externas 
 Son prácticamente todo lo que podemos ver a simple vista en una laptop:
 
-#### Pantalla 📺
+#### -Pantalla 📺
 Una de las partes mas importantes de cualquier computadora es la pantalla. Las laptops hoy en día tienen pantallas que van desde las 10 pulgadas hasta 16-17 pulgadas en los modelos de gama mas alta o para diseñadores y gamers.
 Las resoluciones mas comunes en una laptop son 1368×760 en modelos viejos, 1920×1080 en modelos actuales, los tipos de monitores de las laptops normalmente son LCD o LED.
 

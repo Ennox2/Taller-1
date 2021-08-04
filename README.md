@@ -146,11 +146,27 @@ Es un tipo de mantenimiento que no se dedica a corregir o prevenir posibles fall
 * Espuma limpiadora.
 * Aire comprimido.
 * Kit de desarmadores.
-* Toalla de fibra.
+* Pañuelo microfibra.
+* Pulsera antiestática.
+* Objeto metálico.
+* Cepillo suave.
+* Solucion limpiadora de grasa.
 
 ### Pasos:
-1. Revisar que el equipo se encuentre desconectado.
-2. Ver que se encuentre...
+1. Colocarse la pulsera antiestática y conectarla al objeto metálico, de esta manera se evitará dañar alguno de los componentes internos.
+<img src="assets/images/pasos/1.png" border="10" />
+3. Retire la bateria (este paso puede diferir según el modelo de su computadora). <img src="assets/images/pasos/2.png" border="10" />
+4. Retire el teclado.
+5. Remueva el polvo del teclado con el cepillo y limpiar con el aire comprimido. Asi mismo limpiar la zona donde se encuentra el teclado.
+6. Ensambe el teclado.
+7. Con ayuda del kit de desarmadores retire los tornillos y retirar la tapa.
+8. Retirar el disipador de calor y limpiar del posible polvo que este pueda tener.
+9. Retirar las memorias RAM limpiando los contactos y con la precaucion de no tocar los pines.
+10. Retirar y limpiar el lector de disco (algunas computadoras no cuentan con este).
+11. Retirar el disco duro o disco de estado solido y limpiar del polvo.
+12. Remover el polvo con la brocha y con el aire comprimido del resto de componentes.
+13. Ensamblar componentes con el cuidado debido, colocar la tapa y posteriormente la batería.
+14. Limpiar las partes externas de la computadora con el pañuelo de microfibra asi como con la espuma limpiadora
 
 ---
 # Video explicativo ▶️

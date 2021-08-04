@@ -168,7 +168,7 @@ Es un tipo de mantenimiento que no se dedica a corregir o prevenir posibles fall
 
 4. Remueva el polvo del teclado con el cepillo y limpiar con el aire comprimido. Asi mismo limpiar la zona donde se encuentra el teclado.
 
-<img src="/assets/images/pasos/4.PNG" alt="1" width="400" height="auto" border="19"/>    <img src="/assets/images/pasos/5.PNG" alt="1" width="400" height="auto" border="20"/>
+<img src="/assets/images/pasos/4.PNG" alt="1" width="45%" height="auto" border="19"/>    <img src="/assets/images/pasos/5.PNG" alt="1" width="45%" height="auto" border="20"/>
 
 
 5. Ensambe el teclado.

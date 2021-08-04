@@ -156,8 +156,7 @@ Es un tipo de mantenimiento que no se dedica a corregir o prevenir posibles fall
 # Video explicativo ▶️
 En el siguiente video se muestra de una manera detallada los pasos anteriormente descritos, de tal manera que se pueda realizar el mantenimiento de una manera facil y sencilla consiguiendo el estado optimo de un equipo portatil:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&4pycL_rrIBU
-" target="_blank"><img src="assets/images/miniatura.PNG" 
+<a href="https://www.youtube.com/watch?v=4pycL_rrIBU" target="_blank"><img src="assets/images/miniatura.PNG" 
 alt="Video" width="1000" height="auto" border="0" /></a>
 
 

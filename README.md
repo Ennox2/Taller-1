@@ -154,20 +154,58 @@ Es un tipo de mantenimiento que no se dedica a corregir o prevenir posibles fall
 
 ### Pasos:
 1. Colocarse la pulsera antiestática y conectarla al objeto metálico, de esta manera se evitará dañar alguno de los componentes internos.
-![](/assets/images/pasos/1.PNG)
 
-3. Retire la bateria (este paso puede diferir según el modelo de su computadora).
-5. Retire el teclado.
-6. Remueva el polvo del teclado con el cepillo y limpiar con el aire comprimido. Asi mismo limpiar la zona donde se encuentra el teclado.
-7. Ensambe el teclado.
-8. Con ayuda del kit de desarmadores retire los tornillos y retirar la tapa.
-9. Retirar el disipador de calor y limpiar del posible polvo que este pueda tener.
-10. Retirar las memorias RAM limpiando los contactos y con la precaucion de no tocar los pines.
-11. Retirar y limpiar el lector de disco (algunas computadoras no cuentan con este).
-12. Retirar el disco duro o disco de estado solido y limpiar del polvo.
-13. Remover el polvo con la brocha y con el aire comprimido del resto de componentes.
-14. Ensamblar componentes con el cuidado debido, colocar la tapa y posteriormente la batería.
-15. Limpiar las partes externas de la computadora con el pañuelo de microfibra asi como con la espuma limpiadora.
+![1](/assets/images/pasos/1.png)
+
+
+2. Retire la bateria (este paso puede diferir según el modelo de su computadora).
+
+![1](/assets/images/pasos/2.PNG)
+
+3. Retire el teclado.
+
+![1](/assets/images/pasos/3.PNG)
+
+4. Remueva el polvo del teclado con el cepillo y limpiar con el aire comprimido. Asi mismo limpiar la zona donde se encuentra el teclado.
+
+<img src="/assets/images/pasos/4.PNG" alt="1" width="450" height="auto" border="19"/>    <img src="/assets/images/pasos/5.PNG" alt="1" width="450" height="auto" border="20"/>
+
+
+5. Ensambe el teclado.
+
+![1](/assets/images/pasos/6.PNG)
+
+6. Con ayuda del kit de desarmadores retire los tornillos y retirar la tapa.
+
+![1](/assets/images/pasos/7.PNG)
+
+7. Retirar el disipador de calor y limpiar del posible polvo que este pueda tener.
+
+![1](/assets/images/pasos/8.PNG)
+
+8. Retirar las memorias RAM limpiando los contactos y con la precaucion de no tocar los pines.
+
+![1](/assets/images/pasos/9.PNG)
+
+9. Retirar y limpiar el lector de disco (algunas computadoras no cuentan con este).
+
+![1](/assets/images/pasos/10.PNG)
+
+10. Retirar el disco duro o disco de estado solido y limpiar del polvo.
+
+![1](/assets/images/pasos/11.PNG)
+
+11. Remover el polvo con la brocha y con el aire comprimido del resto de componentes.
+
+![1](/assets/images/pasos/12.PNG)
+
+12. Ensamblar componentes con el cuidado debido, colocar la tapa y posteriormente la batería.
+
+![1](/assets/images/pasos/13.PNG)
+
+13. Limpiar las partes externas de la computadora con el pañuelo de microfibra asi como con la espuma limpiadora.
+
+![1](/assets/images/pasos/14.PNG)
 
 ---
 # Video explicativo ▶️

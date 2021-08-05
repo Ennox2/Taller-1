@@ -223,9 +223,13 @@ alt="trifolio" width="1000" height="auto" border="10" /></a>
 ---
 # Bibliografía 📚
 
-PC ACADEMIA. (2020). *Partes de una laptop.* Extraído el 2 de agosto del 2021. 
+PC ACADEMIA. (2020). *Partes de una laptop.* Extraído el 2 de agosto del 2021.
+
 https://pcacademia.com/partes-de-una-laptop/
-EHORUS. (2018). *4 tipos de mantenimiento informático.* Extraído el 2 de agosto del 2021. 
+
+
+EHORUS. (2018). *4 tipos de mantenimiento informático.* Extraído el 2 de agosto del 2021.
+
 https://ehorus.com/es/tipos-de-mantenimiento-informatico/
 
 

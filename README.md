@@ -217,8 +217,10 @@ alt="Video" width="1000" height="auto" border="0" /></a>
 
 ---
 # Trifoliar📝
-<a href="assets/images/prueba.pdf" target="_blank"><img src="assets/images/prueba1.png" 
-alt="trifolio" width="1000" height="auto" border="10" /></a>
+<a href="assets/images/trifoliar.pdf" target="_blank"><img src="assets/images/trifoliar1.jpg" 
+alt="trifolio" width="100%" height="auto" border="10" /></a>
+<a href="assets/images/trifoliar.pdf" target="_blank"><img src="assets/images/trifoliar2.jpg" 
+alt="trifolio" width="100%" height="auto" border="10" /></a>
 
 ---
 # Bibliografía 📚
